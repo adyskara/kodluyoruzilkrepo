@@ -1,9 +1,12 @@
 
 # kodluyoruzilkrepo
 
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+###Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-*italik*
+####Araba markalarını yazdıran kod
 
--item1
--item2
+-Herbir marka birer saniye aralılarla yazılır
+-10'dan fazla marka ismi var
+
+
+
